@@ -18,6 +18,9 @@ body {
 }
 
 /* Write all remaining styles here */
+h1{
+  font-size 50px;
+}
 .necklace{
   border: 2px;
   color: black;
