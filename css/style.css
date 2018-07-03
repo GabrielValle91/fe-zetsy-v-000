@@ -34,6 +34,6 @@ body {
   color: #98A7A2;
 }
 .press{
-  float: left;
-  size: 25%;
+  padding: 2px;
+  background-color: #CBCDCC;
 }
