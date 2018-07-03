@@ -30,4 +30,5 @@ body {
 .footer{
   position: relative;
   float: right;
+  font-size: 1em;
 }
