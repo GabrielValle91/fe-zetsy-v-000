@@ -37,3 +37,6 @@ body {
   padding: 5px;
   background-color: #CBCDCC;
 }
+.press:hover{
+  background-color: #717F7A;
+}
