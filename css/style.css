@@ -29,6 +29,5 @@ body {
 }
 .footer{
   position: relative;
-  right: 0;
-  bottom: 0;
+  float: right;
 }
