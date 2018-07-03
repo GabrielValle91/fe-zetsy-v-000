@@ -41,6 +41,10 @@ h2{
   font-size: .6em;
   color: #98A7A2;
 }
+img{
+  padding: 5px;
+  background-color: #CBCDCC;
+}
 .press{
   padding: 5px;
   background-color: #CBCDCC;
