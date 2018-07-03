@@ -27,3 +27,8 @@ body {
   border: 2px;
   color: black;
 }
+.footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
