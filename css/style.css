@@ -31,4 +31,9 @@ body {
   position: relative;
   float: right;
   font-size: .6em;
+  color: #98A7A2;
+}
+.press{
+  float: left;
+  size: 25%;
 }
