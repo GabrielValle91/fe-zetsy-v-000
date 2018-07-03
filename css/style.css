@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 .main-title{
   font-size: 65px;
-  font: "Times New Roman";
+  font: Arial, "Times New Roman";
 }
 .necklace{
   border: 2px;
